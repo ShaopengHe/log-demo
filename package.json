@@ -1,0 +1,24 @@
+{
+  "name": "log-demo",
+  "version": "1.0.0",
+  "description": "demo for popular logging module",
+  "main": "demo.js",
+  "dependencies": {
+    "bunyan": "^1.0.1",
+    "log": "^1.4.0",
+    "log4js": "^0.6.20",
+    "moment": "^2.8.3",
+    "tracer": "^0.7.3",
+    "winston": "^0.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "keywords": [
+    "log",
+    "demo"
+  ],
+  "author": "ShaopengHe",
+  "license": "ISC"
+}
